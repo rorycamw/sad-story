@@ -2,19 +2,12 @@
 
 Unfortunately, Jack tripped over a root.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> refs/remotes/jedi-academy/develop
 Fortunately, the ground was very mushy and Jack did not get injured.
 
 Unfortunately, the mushy ground was actually a monster.
 
-<<<<<<< HEAD
 Fortunately, not a drop of water was spilled, and the village was saved.
-=======
-=======
->>>>>>> refs/remotes/jedi-academy/develop
+
 Fortunately, Jill stepped away from him and did not fall with him.
 
 Unfortunately, Jack broke his right arm.
@@ -24,8 +17,3 @@ Fortunately, Jill noticed and yelled out for help.
 Unfortunately, Jack didn’t hear her in time.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
-<<<<<<< HEAD
->>>>>>> refs/remotes/jedi-academy/develop
-=======
-
->>>>>>> refs/remotes/jedi-academy/develop
