@@ -6,7 +6,13 @@ Fortunately, the ground was very mushy and Jack did not get injured.
 
 Unfortunately, the mushy ground was actually a monster.
 
+<<<<<<< HEAD
 Fortunately, not a drop of water was spilled, and the village was saved.
+=======
+Fortunately, the monster is is a cookie monster and offered him cookies.
+
+Unfortunately, the cookies are disgusting.
+>>>>>>> refs/remotes/jedi-academy/develop
 
 Fortunately, Jill stepped away from him and did not fall with him.
 
