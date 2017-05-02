@@ -1,6 +1,10 @@
-Jack and Jill went up the hill, to fetch a pail of water.
+﻿Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
+
+Fortunately, the ground was very mushy and Jack did not get injured.
+
+Unfortunately, the mushy ground was actually a monster.
 
 Fortunately, Jill stepped away from him and did not fall with him.
 
@@ -11,3 +15,4 @@ Fortunately, Jill noticed and yelled out for help.
 Unfortunately, Jack didn’t hear her in time.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
+
