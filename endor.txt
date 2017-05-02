@@ -2,11 +2,6 @@
 
 Unfortunately, Jack tripped over a root.
 
-
-Fortunately, Jill saved Jack.
-
-Unfortunately, Jill tripped over the same root.
-
 Fortunately, the ground was very mushy and Jack did not get injured.
 
 Unfortunately, the mushy ground was actually a monster.
