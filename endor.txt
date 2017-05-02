@@ -1,4 +1,4 @@
-Jack and Jill went up the hill, to fetch a pail of water.
+﻿Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
@@ -9,5 +9,9 @@ Unfortunately, Jack broke his right arm.
 Fortunately, Jill noticed and yelled out for help.
 
 Unfortunately, Jack didn’t hear her in time.
+
+Fortunately, a group of Ewoks came up to Jack to fix his arm.
+
+Unfortunately, they started to eat him.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
