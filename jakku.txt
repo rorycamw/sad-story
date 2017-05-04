@@ -2,6 +2,10 @@ Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
+Fortunately, he found some money on the ground.
+
+Unfortunately, it was stuck to the ground.
+
 Fortunately, Jill was there to catch his fall
 
 Unfortunately, Jack almost hit her in the head
