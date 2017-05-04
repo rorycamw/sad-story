@@ -1,4 +1,4 @@
-Jack and Jill went up the hill, to fetch a pail of water.
+﻿Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
@@ -26,6 +26,10 @@ Fortunately, not a drop of water was spilled, and the village was saved.
 
 Fortunately, the storyline was so silly that no one believed that the Dragonsnakes
 existed, so they vanished.
+
+Unfortunately, the Dragonsnakes did actually existed and murdered all the stormtroopers that landed near the swamp.
+
+Fortunately, Jack was praised by the villagers for clearing out the stormtroopers and they built a statue of him in city hall.
 
 Unfortunately, Jack was still gone and so was the water.
 
