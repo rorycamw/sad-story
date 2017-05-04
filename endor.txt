@@ -1,4 +1,4 @@
-﻿Jack and Jill went up the hill, to fetch a pail of water.
+Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack fell down and broke his crown.
 
@@ -9,6 +9,10 @@ Unfortunately, the mushy ground was actually a monster.
 Fortunately, the monster is is a cookie monster and offered him cookies.
 
 Unfortunately, the cookies are disgusting.
+
+Fortunately, the monster realized his mistake and went home.
+
+Unfortunately, Jill did not see this altercation properly and thought there was going to be a firefight.
 
 Fortunately, Jill came tubelling down but dinot get hurt.
 
@@ -28,7 +32,17 @@ Unfortunately, Jack didn’t hear her in time.
 
 Fortunately, a group of Ewoks came up to Jack to fix his arm.
 
-Unfortunately, they started to eat him.
+Unfortunately, they failed.
+
+Fortunately, the Ewoks did not like the taste of Jack.
+
+Unfortunately, Jack is still bleeding from the bites.
+
+Fortunately, Jack had training from the League of Assassins and successfully defeated the ewoks before they could eat him.
+
+Unfortunately, they didn't do a good job in fixing in arm, and it ended to worse after the fight.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
+
+# Looks pretty good as of my commit
 

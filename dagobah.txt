@@ -14,7 +14,7 @@ Fortunately, a thousand screaming snakes descended upon jack and catapulted him 
 
 Unfortunately, the pail of water disintregated through the heat of the sun.
 
-Fortunately, the jedis learned how to airbend.
+Fortunately, the Jedis used their time altering powers and had a working fridge.
 
 Unfortunately, the Dragonsnakes attacked.
 
@@ -27,6 +27,10 @@ Fortunately, not a drop of water was spilled, and the village was saved.
 Fortunately, the storyline was so silly that no one believed that the Dragonsnakes
 existed, so they vanished.
 
+Unfortunately, the Dragonsnakes did actually existed and murdered all the stormtroopers that landed near the swamp.
+
+Fortunately, Jack was praised by the villagers for clearing out the stormtroopers and they built a statue of him in city hall.
+
 Unfortunately, Jack was still gone and so was the water.
 
 Fortunately, a wizard reversed time and the pail was remade full of water.
@@ -34,8 +38,9 @@ Fortunately, a wizard reversed time and the pail was remade full of water.
 Unforunately, Jill didn't catch the new pail. 
 
 Fortunately, the scarlet speedster, Flash returned and caught the new pail before it dropped.
-
+ 
 Unfortunately, the Flash ran so fast and the fission he created burned Jill's clothes off.
+
 
 Fortunately, the producers were able to keep this PG by making Jill a man.
 
@@ -47,3 +52,5 @@ Unfortunately, although no water was spilled it was disintegrated, thus killing 
 
 Fortunately, The village was left in perfect condition :)
 
+Fortunately, not a drop of water was spilled, and the village was saved.
+>>>>>>> 14ad0fb28efc890b4da50d42fd36ccb8aaebec2a
