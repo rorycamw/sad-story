@@ -12,9 +12,5 @@ Fortunately, Jill is actually a jedi and she used Force Levitate to save Jack.
 Unfortunately, Jill is still a trainee and used too much power and sent Jack to the stratosphere.
 >>>>>>> refs/remotes/jedi-academy/develop
 
-Fortunately, Jack could survive without air.
-
-Unfortunately, Jack was afraid of space.
-
 Fortunately, not a drop of water was spilled, and the village was saved.
 
