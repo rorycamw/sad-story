@@ -19,28 +19,11 @@ Fortunately, aliens invaded and distored gravity so that for the few seconds whi
 
 Unfortunately, he hurt his ankle.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Fortunately, Jill is a medic and fixed his ankle.
-=======
-=======
-Fortunately, Jill is a medic and fixed his ankle.
-
->>>>>>> feature/part2
 Fortunately, Amrit became a farmer techsuppport who traveled back in time to save Jack ankle.
 
 Unfortunately, Amrit was hit by a flying pig.
 
-<<<<<<< HEAD
-Fortunately, not a drop of water was spilled, and the village was saved.
-
-
-
-
->>>>>>> 2fc10e116c1db27c62433d4bce692d933bf66445
-=======
 Fortunately, Jill was able to help Jack before Amrit.
->>>>>>> feature/part2
 
 Unfortunately, Godzilla attacked earth and is about to attack Jack and Jill.
 
