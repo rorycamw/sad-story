@@ -16,6 +16,10 @@ Fortunately, Jill used the Force to lift the pail.
 
 Unfortunately, the rogues of Jakku attacked.
 
+Fortunately, the rouges were nice enough not to spill the water.
+
+Unfortunately, the pail flew out of Jill's hand and disappeared.
+
 Fortunately, the rouges were nice enough not to spill the pail.
 
 Unfortunately, the pail was lost.
