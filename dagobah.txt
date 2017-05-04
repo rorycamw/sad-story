@@ -1,8 +1,8 @@
-﻿Jack and Jill went up the hill, to fetch a pail of water.
+Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
-Fortunately, Jill was able to catch the pail of water.
+Fortunately, Jill was standing close by
 
 Unfortunately, Jack continued to tumble down the hill.
 
@@ -18,6 +18,12 @@ Fortunately, the jedis learned how to airbend.
 
 Unfortunately, the Dragonsnakes attacked.
 
+Fortunately, the avatar master of all four elements is capable of stopping this threat.
+
+Unfortunately, when the world needed him most, he vanished.
+
+Fortunately, not a drop of water was spilled, and the village was saved.
+
 Fortunately, the storyline was so silly that no one believed that the Dragonsnakes
 existed, so they vanished.
 
@@ -25,6 +31,15 @@ Unfortunately, Jack was still gone and so was the water.
 
 Fortunately, a wizard reversed time and the pail was remade full of water.
 
-Unforunately, Jill didn't catch the new pail.
+Unforunately, Jill didn't catch the new pail. 
+
+Fortunately, the scarlet speedster, Flash returned and caught the new pail before it dropped.
+
+Unfortunately, the Flash ran so fast and the fission he created burned Jill's clothes off.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
+
+Unfortunately, although no water was spilled it was disintegrated, thus killing off all the villagers due to dehydration.
+
+Fortunately, The village was left in perfect condition :)
+>>>>>>> 97b8e0d20929b85554b37a7a7720d38c7df63907
