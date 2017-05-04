@@ -1,4 +1,4 @@
-﻿Jack and Jill went up the hill, to fetch a pail of water.
+Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack fell down and broke his crown.
 
@@ -43,4 +43,6 @@ Fortunately, Jack had training from the League of Assassins and successfully def
 Unfortunately, they didn't do a good job in fixing in arm, and it ended to worse after the fight.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
+
+# Looks pretty good as of my commit
 
