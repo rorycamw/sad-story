@@ -42,6 +42,10 @@ Fortunately, Jack had training from the League of Assassins and successfully def
 
 Unfortunately, they didn't do a good job in fixing in arm, and it ended to worse after the fight.
 
+Fortunately, they decided he tasted bad.
+
+Unfortunately, Jack had already contracted Ewok syndrome.
+
 Fortunately, not a drop of water was spilled, and the village was saved.
 
 # Looks pretty good as of my commit
