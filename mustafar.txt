@@ -5,7 +5,15 @@ Unfortunately, Jack tripped over a root.
 
 Fortunately, Jack liked it.
 
-Unfortunately, Jill didn't.
+Unfortunately, Jill,,, didn't.
+
+Fortunately, Jack has super power.
+
+Unfortunately, Jill can not use the power.
+
+Fortunately, Jack goes fastly.
+
+Unfortunately, Jill did not chatch up.
 
 Fortunately, Jill caught him with her quick reactions.
 
@@ -14,6 +22,8 @@ Unfortunately, when Jack reached the top of the hill, there was a raging mustafa
 Fortunately, not a drop of water was spilled, and the village was saved.
 
 Jack and Jill went up the hill, to fetch a pail of water.
+
+Fortunately, Jack fall down into a pitfall.
 
 Unfortunately, Jack tripped over a root.
 
