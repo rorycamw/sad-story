@@ -1,4 +1,4 @@
-Jack and Jill went up the hill, to fetch a pail of water.
+﻿Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack fell down and broke his crown.
 
@@ -24,13 +24,15 @@ Unfortunately, Jill had sore throat.
 
 Fortunately, Mark the doctor was there to cure Jill.
 
+Unfortunately, Jack didn’t hear her in time.
+
+Fortunately, a group of Ewoks came up to Jack to fix his arm.
+
 Unfortunately, Jill triped on his way.
 
 Fortunately, Jill didnt get hurt.
 
-Unfortunately, Jack didn’t hear her in time.
-
-Fortunately, a group of Ewoks came up to Jack to fix his arm.
+Unfortunately, they started to eat him.
 
 Unfortunately, they failed.
 
@@ -48,5 +50,4 @@ Unfortunately, Jack had already contracted Ewok syndrome.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
 
-# Looks pretty good as of my commit
 
