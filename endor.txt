@@ -20,6 +20,10 @@ Unfortunately, Jill had sore throat.
 
 Fortunately, Mark the doctor was there to cure Jill.
 
+Unfortunately, Jill triped on his way.
+
+Fortunately, Jill didnt get hurt.
+
 Unfortunately, Jack didn’t hear her in time.
 
 Fortunately, a group of Ewoks came up to Jack to fix his arm.
@@ -31,3 +35,4 @@ Fortunately, they decided he tasted bad.
 Unfortunately, Jack had already contracted Ewok syndrome.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
+
