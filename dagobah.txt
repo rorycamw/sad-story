@@ -33,6 +33,10 @@ Fortunately, Jack was praised by the villagers for clearing out the stormtrooper
 
 Unfortunately, Jack was still gone and so was the water.
 
+Fortunately, there is a powerful somewhere
+
+Unfortunately, he stuck in traffic
+
 Fortunately, a wizard reversed time and the pail was remade full of water.
 
 Unforunately, Jill didn't catch the new pail. 
@@ -50,7 +54,4 @@ Fortunately, not a drop of water was spilled, and the village was saved.
 
 Unfortunately, although no water was spilled it was disintegrated, thus killing off all the villagers due to dehydration.
 
-Fortunately, The village was left in perfect condition :)
-
 Fortunately, not a drop of water was spilled, and the village was saved.
->>>>>>> 14ad0fb28efc890b4da50d42fd36ccb8aaebec2a
