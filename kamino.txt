@@ -6,4 +6,18 @@ Fortunately, they his behind a rock and lost the condor.
 
 Unfortunately, Jack tripped over a root.
 
+<<<<<<< HEAD
 Fortunately, not a drop of water was spilled, and the village was saved.
+=======
+Fortunately, Jill is actually a jedi and she used Force Levitate to save Jack.
+
+Unfortunately, Jill is still a trainee and used too much power and sent Jack to the stratosphere.
+
+Fortunately, Scooby Doo heard the kafuffle and came running.
+
+Unfortunately, he slobbered so much that Jill slipped and fell on her butt.
+
+Fortunately, not a drop of water was spilled, and the village was saved.
+
+- Team Kamino
+>>>>>>> 271da602a7029c4386dc47c56050f323b8aa10db
