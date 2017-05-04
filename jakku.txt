@@ -2,6 +2,8 @@ Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
+Fortunately, Jack tripped over a rock.
+
 Fortunately, Jill used the Force to lift the pail.
 
 Unfortunately, the rogues of Jakku attacked.
